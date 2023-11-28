@@ -12,5 +12,5 @@ Page outputting a one-to-many relational table created from a 'director' SQL tab
 Page depicting movie ratings output from the 'movie' SQL table.
 <img width="1120" alt="Favorite Movie" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/005b3a8c-ab2f-4525-b2c7-914b33e3a03a">
 Page consisting of my favorite movie as well as a graphic, plus interactive buttons that change the page depending on your answer.
-<img width="667" alt="Admin functions" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/e3227469-fb3c-4130-85f5-9a594090a26c">
+<img width="1120" alt="Admin Functions" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/161bbb62-5560-4799-8c99-b6a30896853d">
 Page exclusive to the administrator accessed using a special username and password. Allows for full CRUD functionality of all 3 SQL tables, including the ability to add, delete, update, and search each of them.
