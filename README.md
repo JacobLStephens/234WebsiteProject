@@ -9,4 +9,8 @@ Home page consisting of a graphic as well as a menu bar and logout button.
 <img width="1120" alt="One to many movie table" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/c2c7012d-b55c-4195-8997-86582de365b2">
 Page outputting a one-to-many relational table created from a 'director' SQL table and a 'movie' SQL table.
 <img width="1120" alt="Ratings table" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/d45f0085-e268-4245-b3da-033bf410fb70">
-Table depicting movie ratings output from the 'movie' SQL table.
+Page depicting movie ratings output from the 'movie' SQL table.
+<img width="1120" alt="Favorite Movie" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/005b3a8c-ab2f-4525-b2c7-914b33e3a03a">
+Page consisting of my favorite movie as well as a graphic, plus interactive buttons that change the page depending on your answer.
+<img width="667" alt="Admin functions" src="https://github.com/JacobLStephens/234WebsiteProject/assets/152328064/e3227469-fb3c-4130-85f5-9a594090a26c">
+Page exclusive to the administrator accessed using a special username and password. Allows for full CRUD functionality of all 3 SQL tables, including the ability to add, delete, update, and search each of them.
